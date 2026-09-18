@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Studying+how+LLMs+behave+under+pressure;Bias+mitigation+with+synthetic+data;Preventing+model+collapse;Building+evaluation+pipelines+that+hold+up" alt="Typing SVG" />
-
 <p>
   <a href="mailto:yn2509@columbia.edu"><img src="https://img.shields.io/badge/Email-yn2509%40columbia.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yashwanth-nallapuneni/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
