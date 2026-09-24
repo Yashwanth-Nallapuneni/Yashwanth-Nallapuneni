@@ -1,36 +1,21 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yashwanth%20Sai%20Nallapuneni&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20M.S.%20CS%20%40%20Columbia&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Yashwanth%20Sai%20Nallapuneni&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20M.S.%20CS%20%40%20Columbia&descSize=17&descAlignY=58&animation=twinkling" width="100%"/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=5FB3C9&center=true&vCenter=true&width=620&lines=I+build+LLM+systems+that+can+be+trusted.;Agents+%E2%80%A2+RAG+%E2%80%A2+LLM+evaluation;From+prototype+to+production%2C+with+the+tests+to+prove+it." alt="typing intro"/>
-
-<p>
-  <a href="mailto:yn2509@columbia.edu"><img src="https://img.shields.io/badge/Email-yn2509%40columbia.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yashwanth-nallapuneni/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://arxiv.org/abs/2510.13202"><img src="https://img.shields.io/badge/arXiv-2510.13202-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:yn2509@columbia.edu"><img src="https://img.shields.io/badge/Email-0f3460?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://www.linkedin.com/in/yashwanth-nallapuneni/"><img src="https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://arxiv.org/abs/2510.13202"><img src="https://img.shields.io/badge/arXiv-0f3460?style=for-the-badge&logo=arxiv&logoColor=white"/></a>&nbsp;<a href="https://pypi.org/project/aiollm-gateway/"><img src="https://img.shields.io/badge/PyPI-0f3460?style=for-the-badge&logo=pypi&logoColor=white"/></a>
 </p>
 
-</div>
+<h3 align="center">I build LLM systems that are reliable, measurable, and safe to ship.</h3>
 
----
+<br/>
 
 ## 👋 About me
 
-I'm an **AI engineer** doing my M.S. in Computer Science at **Columbia University** (Fall 2026 to Dec 2027). Before that, I did my B.Tech in CSE (Blockchain Technology) at **VIT Vellore**, graduating with a 9.15 CGPA and ranked 6th in my program.
-
-I build applications on top of large language models: agent workflows, retrieval pipelines, and the evaluation harnesses that show whether they actually work. I care most about the unglamorous part, making LLM output **reliable, measurable, and safe to ship**.
-
-```python
-yashwanth = {
-    "role":       "AI Engineer",
-    "now":        "M.S. CS @ Columbia University",
-    "building":   ["LLM agents", "RAG pipelines", "LLM evaluation",
-                   "LLM infrastructure"],
-    "stack":      ["Python", "LangGraph", "LangChain", "FastAPI", "Docker"],
-    "ask_me_about": ["LangGraph agents", "LLM evals", "synthetic data quality"],
-}
-```
+🎓 &nbsp;**M.S. Computer Science** · Columbia University <sub>(2026 – 2027)</sub><br/>
+🏛️ &nbsp;**B.Tech CSE** · VIT Vellore <sub>(9.15 CGPA · ranked 6th in program)</sub><br/>
+🛠️ &nbsp;Building **LLM agents, RAG pipelines and evaluation harnesses**<br/>
+📦 &nbsp;Shipped [`aiollm-gateway`](https://pypi.org/project/aiollm-gateway/) on PyPI<br/>
+📄 &nbsp;Published at **IEEE ICoECIT 2026**<br/>
+💬 &nbsp;Ask me about **LangGraph, LLM evals, synthetic data**
 
 ---
 
