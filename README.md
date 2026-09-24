@@ -117,15 +117,3 @@ Detects and categorizes LLM hallucinations with heuristic and LLM-based pipeline
 
 <sub>Also: retrieval-augmented generation, prompt engineering, LLM evaluation, synthetic data.</sub>
 
----
-
-## 📊 GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Nallapuneni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Nallapuneni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Yashwanth-Nallapuneni&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
